@@ -1,0 +1,323 @@
+[
+    {
+        "tituloquestao": "O que é Blockchain?",
+        "respostas": [
+            "Uma cadeia de blocos distribuída e imutável usada para registrar transações.",
+            "Um banco de dados centralizado para armazenar dados pessoais.",
+            "Uma plataforma de rede social para compartilhar fotos e vídeos.",
+            "Um software de edição de texto para criar documentos.",
+            "Uma linguagem de programação para desenvolvimento web."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é a principal aplicação do Blockchain?",
+        "respostas": [
+            "Criptomoedas",
+            "Armazenamento em nuvem",
+            "Redes sociais",
+            "Análise de dados"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O Blockchain utiliza __________ para garantir a segurança das transações.",
+        "respostas": [
+            "Criptografia",
+            "Documentação manual",
+            "Processamento gráfico",
+            "Controle de versão",
+            "Compartilhamento de arquivos"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa DLT?",
+        "respostas": [
+            "Distributed Ledger Technology",
+            "Data Link Transmission",
+            "Digital Light Technology",
+            "Dynamic Logic Transmitter",
+            "Direct Line Tracking"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o algoritmo de consenso mais comum no Blockchain?",
+        "respostas": [
+            "Proof of Work",
+            "Proof of Stake",
+            "PBFT",
+            "Raft"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "As transações no Blockchain são agrupadas em __________.",
+        "respostas": [
+            "Blocos",
+            "Arquivos",
+            "Pastas",
+            "Redes",
+            "Sessões"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o papel de um nó em um Blockchain?",
+        "respostas": [
+            "Armazenar uma cópia do Blockchain e participar da validação de transações.",
+            "Gerenciar a interface do usuário.",
+            "Proteger o sistema contra vírus.",
+            "Criar conteúdos multimídia.",
+            "Controlar o hardware do computador."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual moeda foi a primeira a usar Blockchain?",
+        "respostas": [
+            "Bitcoin",
+            "Ethereum",
+            "Litecoin",
+            "Dogecoin"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "As __________ são contratos autoexecutáveis baseados no Blockchain.",
+        "respostas": [
+            "Smart Contracts",
+            "Chaves Privadas",
+            "Transações",
+            "Minerações",
+            "Hashes"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é mineração em Blockchain?",
+        "respostas": [
+            "O processo de validação de transações e adição de novos blocos à cadeia.",
+            "A extração de minerais usando tecnologia blockchain.",
+            "O ato de remover dados antigos do blockchain.",
+            "Uma forma de criptografar mensagens.",
+            "Uma técnica de ataque cibernético."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é Inteligência Artificial (IA)?",
+        "respostas": [
+            "A simulação de inteligência humana em máquinas que realizam tarefas de forma autônoma.",
+            "Um tipo de hardware de armazenamento de dados.",
+            "Um sistema operacional para dispositivos móveis.",
+            "Uma técnica de construção civil.",
+            "Um software para edição de imagens."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é uma aplicação comum de IA?",
+        "respostas": [
+            "Reconhecimento de fala",
+            "Jogos",
+            "Automação",
+            "Todas as anteriores"
+        ],
+        "id_resposta_correta": 3
+    },
+    {
+        "tituloquestao": "O aprendizado de máquina é um subcampo da __________.",
+        "respostas": [
+            "Inteligência Artificial",
+            "Física Quântica",
+            "Biologia Molecular",
+            "Geografia",
+            "Literatura"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa NLP em IA?",
+        "respostas": [
+            "Natural Language Processing (Processamento de Linguagem Natural)",
+            "Neural Learning Program",
+            "Network Layer Protocol",
+            "Numerical Logic Processing",
+            "Node Link Processor"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual biblioteca é amplamente usada em IA?",
+        "respostas": [
+            "TensorFlow",
+            "Bootstrap",
+            "jQuery",
+            "NumPy"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "As redes neurais artificiais são inspiradas na estrutura do __________ humano.",
+        "respostas": [
+            "Cérebro",
+            "Coração",
+            "Pulmão",
+            "Fígado",
+            "Rim"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é visão computacional?",
+        "respostas": [
+            "A capacidade de uma máquina interpretar e entender imagens e vídeos.",
+            "Um tipo de hardware para monitores.",
+            "Um software de edição de texto.",
+            "Uma técnica de melhoria da visão humana.",
+            "Um sistema de realidade virtual para jogos."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual destas é uma técnica de aprendizado de máquina?",
+        "respostas": [
+            "Supervisionado",
+            "Não supervisionado",
+            "Reforço",
+            "Todas as anteriores"
+        ],
+        "id_resposta_correta": 3
+    },
+    {
+        "tituloquestao": "O GPT é um modelo de __________ baseado em IA.",
+        "respostas": [
+            "Linguagem",
+            "Visão",
+            "Áudio",
+            "Movimento",
+            "Animação"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é aprendizado profundo?",
+        "respostas": [
+            "Uma técnica de aprendizado de máquina que utiliza redes neurais profundas para analisar grandes volumes de dados.",
+            "Um método de estudar por muitas horas sem pausa.",
+            "Um programa de mergulho em águas profundas.",
+            "Uma técnica de armazenamento de dados físicos.",
+            "Um processo de mineração de criptomoedas."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que são infraestruturas críticas?",
+        "respostas": [
+            "Sistemas e ativos essenciais para o funcionamento da sociedade, como energia e transporte.",
+            "Pequenos dispositivos eletrônicos usados em casa.",
+            "Aplicativos de jogos para smartphones.",
+            "Ferramentas de design gráfico.",
+            "Redes sociais para compartilhamento de fotos."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é uma prática comum de segurança em infraestruturas críticas?",
+        "respostas": [
+            "Monitoramento contínuo",
+            "Backups regulares",
+            "Criptografia de dados",
+            "Todas as anteriores"
+        ],
+        "id_resposta_correta": 3
+    },
+    {
+        "tituloquestao": "A proteção de __________ em infraestruturas críticas é essencial para evitar ataques cibernéticos.",
+        "respostas": [
+            "Dados",
+            "Mobília",
+            "Plantas",
+            "Animais",
+            "Roupas"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é um ataque de ransomware?",
+        "respostas": [
+            "Um ataque em que os dados são criptografados e um resgate é exigido para liberá-los.",
+            "Um tipo de malware que exibe anúncios indesejados.",
+            "Uma falha de hardware devido ao superaquecimento.",
+            "Um erro de software causado por programação inadequada.",
+            "Um ataque físico a um servidor."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual ferramenta é usada para monitorar infraestruturas críticas?",
+        "respostas": [
+            "SIEM",
+            "WordPress",
+            "Docker",
+            "Kubernetes"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O uso de __________ é essencial para proteger redes de infraestruturas críticas.",
+        "respostas": [
+            "Firewalls",
+            "Teclados",
+            "Monitores",
+            "Impressoras",
+            "Cadeiras"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é redundância em sistemas críticos?",
+        "respostas": [
+            "A duplicação de componentes para garantir continuidade em caso de falha.",
+            "A remoção de partes desnecessárias de um sistema.",
+            "O armazenamento de dados em papel.",
+            "O uso de energia renovável.",
+            "A desativação de sistemas durante a noite."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual setor é considerado infraestrutura crítica?",
+        "respostas": [
+            "Saúde",
+            "Energia",
+            "Transporte",
+            "Todos os anteriores"
+        ],
+        "id_resposta_correta": 3
+    },
+    {
+        "tituloquestao": "A __________ é uma técnica usada para detectar atividades incomuns em sistemas críticos.",
+        "respostas": [
+            "Análise comportamental",
+            "Pintura artística",
+            "Escrita criativa",
+            "Dieta balanceada",
+            "Exercício físico"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é continuidade de negócios?",
+        "respostas": [
+            "A capacidade de uma organização de manter operações durante interrupções.",
+            "O fechamento permanente de uma empresa.",
+            "A mudança de setor de atuação.",
+            "A contratação de novos funcionários.",
+            "A venda de ativos da empresa."
+        ],
+        "id_resposta_correta": 0
+    }
+]

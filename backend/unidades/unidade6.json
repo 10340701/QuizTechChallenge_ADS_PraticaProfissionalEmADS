@@ -1,0 +1,323 @@
+[
+    {
+        "tituloquestao": "O que significa SOA?",
+        "respostas": [
+            "Service-Oriented Architecture (Arquitetura Orientada a Serviços)",
+            "System Operational Analysis",
+            "Secure Online Access",
+            "Software Oriented Application",
+            "Standard Object Architecture"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é a função de um hypervisor?",
+        "respostas": [
+            "Gerenciar máquinas virtuais",
+            "Gerenciar redes",
+            "Executar backups",
+            "Monitorar logs"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "A técnica de particionar recursos físicos em lógicos é conhecida como:",
+        "respostas": [
+            "Virtualização",
+            "Segmentação",
+            "Fragmentação",
+            "Emulação",
+            "Clustering"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é um data lake?",
+        "respostas": [
+            "Um repositório centralizado para armazenar dados estruturados e não estruturados em grande volume.",
+            "Um banco de dados relacional para aplicações pequenas.",
+            "Um sistema de backup local para computadores pessoais.",
+            "Uma ferramenta para visualizar dados em tempo real.",
+            "Um protocolo de transferência de arquivos."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual das seguintes opções é uma prática de DevSecOps?",
+        "respostas": [
+            "Automação de segurança",
+            "Integração contínua",
+            "Teste manual",
+            "Criação de logs"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O termo que refere-se a redes que usam software para gerenciar recursos de hardware é:",
+        "respostas": [
+            "SDN (Software-Defined Networking)",
+            "VPN (Virtual Private Network)",
+            "LAN (Local Area Network)",
+            "WAN (Wide Area Network)",
+            "NAS (Network Attached Storage)"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é um sistema de arquivos distribuído?",
+        "respostas": [
+            "Um sistema que permite armazenar e acessar dados em múltiplos servidores como se fossem um único.",
+            "Um software para editar documentos colaborativamente.",
+            "Um protocolo para comunicação segura na internet.",
+            "Um tipo de sistema operacional móvel.",
+            "Uma ferramenta de compressão de arquivos."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual protocolo é usado para comunicação em redes sem fio?",
+        "respostas": [
+            "802.11",
+            "802.3",
+            "TCP/IP",
+            "UDP"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O modelo amplamente usado para descrever camadas de redes é o:",
+        "respostas": [
+            "OSI",
+            "TCP/IP",
+            "HTTP",
+            "FTP",
+            "SMTP"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é Edge Computing?",
+        "respostas": [
+            "Uma arquitetura onde o processamento de dados ocorre próximo à origem dos dados, em vez de em um data center centralizado.",
+            "Uma técnica de armazenamento em nuvem de longa distância.",
+            "Um método para aumentar a velocidade de processadores.",
+            "Uma linguagem de programação para sistemas embarcados.",
+            "Um protocolo de segurança para redes locais."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa PKI?",
+        "respostas": [
+            "Public Key Infrastructure (Infraestrutura de Chave Pública)",
+            "Private Key Integration",
+            "Public Kernel Interface",
+            "Protocol Key Initialization",
+            "Primary Knowledge Index"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual algoritmo é usado para criptografia assimétrica?",
+        "respostas": [
+            "RSA",
+            "AES",
+            "SHA-256",
+            "MD5"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O protocolo usado para garantir conexões seguras na web é o:",
+        "respostas": [
+            "TLS",
+            "FTP",
+            "HTTP",
+            "SSH",
+            "SMTP"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é um ataque de força bruta?",
+        "respostas": [
+            "Um método para quebrar senhas tentando todas as combinações possíveis.",
+            "Um ataque que envolve inundar um servidor com tráfego excessivo.",
+            "Uma tentativa de phishing via e-mail.",
+            "Uma técnica de engenharia social por telefone.",
+            "Um vírus que se replica automaticamente."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual das opções é uma técnica de mitigação de ataques DDoS?",
+        "respostas": [
+            "Todas as anteriores",
+            "Balanceamento de carga",
+            "Aumento de largura de banda",
+            "Firewall"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "A técnica que adiciona redundância para evitar perda de dados é conhecida como:",
+        "respostas": [
+            "RAID",
+            "Backup",
+            "Compressão",
+            "Fragmentação",
+            "Criptografia"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa hashing?",
+        "respostas": [
+            "O processo de transformar dados em uma sequência fixa de caracteres usando um algoritmo.",
+            "A compressão de arquivos para economizar espaço.",
+            "A criptografia de dados para segurança.",
+            "A transferência de dados entre servidores.",
+            "A replicação de dados em múltiplos locais."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual desses algoritmos é considerado seguro para hashing?",
+        "respostas": [
+            "SHA-256",
+            "MD5",
+            "SHA-1",
+            "Base64"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "A __________ é usada para gerar chaves únicas em sistemas de criptografia.",
+        "respostas": [
+            "Criptografia de chave pública",
+            "Criptografia simétrica",
+            "Compressão de dados",
+            "Tokenização",
+            "Esteganografia"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é um certificado digital?",
+        "respostas": [
+            "Um documento eletrônico que autentica a identidade de uma entidade e permite comunicações seguras.",
+            "Um software para detectar vírus em computadores.",
+            "Um hardware para armazenar senhas com segurança.",
+            "Um método de compactação de arquivos grandes.",
+            "Um protocolo de transferência de arquivos."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é um algoritmo de clustering?",
+        "respostas": [
+            "Um algoritmo usado para agrupar dados semelhantes em conjuntos.",
+            "Um método para criptografar informações sensíveis.",
+            "Uma técnica de compressão de dados sem perda.",
+            "Um protocolo de comunicação em redes sem fio.",
+            "Um software para edição de imagens."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual técnica é usada para reduzir a dimensionalidade dos dados?",
+        "respostas": [
+            "PCA",
+            "CNN",
+            "RNN",
+            "KNN"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "A técnica de __________ é usada para prever valores futuros com base em dados históricos.",
+        "respostas": [
+            "Análise preditiva",
+            "Análise descritiva",
+            "Análise diagnóstica",
+            "Análise prescritiva",
+            "Análise exploratória"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa ETL em Big Data?",
+        "respostas": [
+            "Extract, Transform, Load (Extrair, Transformar, Carregar)",
+            "Encrypt, Transmit, Log",
+            "Evaluate, Test, Launch",
+            "Edit, Translate, Link",
+            "Encode, Transfer, Learn"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual ferramenta é amplamente usada para processamento de Big Data?",
+        "respostas": [
+            "Hadoop",
+            "Flask",
+            "React",
+            "TensorFlow"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O termo que descreve a limpeza de dados antes da análise é:",
+        "respostas": [
+            "Data Wrangling",
+            "Data Mining",
+            "Data Warehousing",
+            "Data Modeling",
+            "Data Streaming"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é aprendizado por reforço?",
+        "respostas": [
+            "Um tipo de aprendizado onde um agente aprende a tomar decisões por tentativa e erro.",
+            "Um método de ensino em salas de aula tradicionais.",
+            "Um algoritmo de criptografia avançada.",
+            "Uma técnica de compressão de dados.",
+            "Um protocolo de comunicação em redes sem fio."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual biblioteca é usada para criar modelos de aprendizado profundo?",
+        "respostas": [
+            "Keras",
+            "Django",
+            "Flask",
+            "jQuery"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Os dados não estruturados são armazenados em __________ para facilitar a análise.",
+        "respostas": [
+            "Data Lakes",
+            "Bancos de dados relacionais",
+            "Planilhas eletrônicas",
+            "Sistemas de arquivos locais",
+            "Memória volátil"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é um pipeline de dados?",
+        "respostas": [
+            "Uma série de etapas para processar, transformar e mover dados de uma fonte para um destino.",
+            "Um canal físico para transferir dados entre computadores.",
+            "Um protocolo para comunicação segura na internet.",
+            "Uma linguagem de programação para big data.",
+            "Um tipo de armazenamento em nuvem."
+        ],
+        "id_resposta_correta": 0
+    }
+]

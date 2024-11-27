@@ -1,0 +1,222 @@
+[
+    {
+        "tituloquestao": "O que significa TI?",
+        "respostas": [
+            "Tecnologia da Informação",
+            "Tecnologia Inovadora",
+            "Trabalho Integrado",
+            "Telecomunicações Inteligentes",
+            "Transferência de Informações"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual destes é um dispositivo de entrada de dados?",
+        "respostas": [
+            "Monitor",
+            "Teclado",
+            "Alto-falante",
+            "Impressora",
+            "Projetor"
+        ],
+        "id_resposta_correta": 1
+    },
+    {
+        "tituloquestao": "A internet é uma __________ de redes que se conectam globalmente.",
+        "respostas": [
+            "rede",
+            "malha",
+            "plataforma",
+            "estrutura",
+            "conexão"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é a função principal de um sistema operacional?",
+        "respostas": [
+            "Gerenciar hardware e software do computador",
+            "Armazenar dados permanentemente",
+            "Fornecer segurança contra vírus",
+            "Executar aplicativos em nuvem",
+            "Conectar redes de computadores"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual destas é uma unidade de armazenamento?",
+        "respostas": [
+            "CPU",
+            "RAM",
+            "HD",
+            "GPU",
+            "Cache"
+        ],
+        "id_resposta_correta": 2
+    },
+    {
+        "tituloquestao": "A sigla USB significa __________ Serial Bus.",
+        "respostas": [
+            "Universal",
+            "Unified",
+            "Unilateral",
+            "Unlimited",
+            "Unique"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa a sigla WWW?",
+        "respostas": [
+            "World Wide Web",
+            "Wide World Web",
+            "World Web Wide",
+            "Web Wide World",
+            "Worldwide Web"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o navegador de internet mais usado?",
+        "respostas": [
+            "Firefox",
+            "Google Chrome",
+            "Safari",
+            "Opera",
+            "Microsoft Edge"
+        ],
+        "id_resposta_correta": 1
+    },
+    {
+        "tituloquestao": "O principal protocolo para transferir dados na internet é o __________.",
+        "respostas": [
+            "HTTP",
+            "HTTPS",
+            "FTP",
+            "TCP",
+            "IP"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é a função de uma placa-mãe em um computador?",
+        "respostas": [
+            "Conectar todos os componentes do computador",
+            "Fornecer energia ao sistema",
+            "Armazenar informações temporárias",
+            "Garantir a segurança dos dados",
+            "Refrigerar os componentes"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é um bug em software?",
+        "respostas": [
+            "Um erro ou defeito no código do programa",
+            "Uma atualização necessária",
+            "Uma falha de hardware",
+            "Uma função intencional",
+            "Uma alteração no design"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o objetivo principal do teste de software?",
+        "respostas": [
+            "Aumentar a velocidade",
+            "Encontrar bugs",
+            "Diminuir o custo",
+            "Melhorar o design",
+            "Garantir a segurança"
+        ],
+        "id_resposta_correta": 1
+    },
+    {
+        "tituloquestao": "O teste automatizado utiliza __________ para executar e verificar os testes.",
+        "respostas": [
+            "ferramentas",
+            "algoritmos",
+            "linguagens",
+            "plataformas",
+            "metodologias"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa QA?",
+        "respostas": [
+            "Quality Assurance (Garantia de Qualidade)",
+            "Quality Analysis",
+            "Quick Action",
+            "Quality Automation",
+            "Quality Adaptation"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual dessas ferramentas é usada para testes de software?",
+        "respostas": [
+            "Jenkins",
+            "Selenium",
+            "Docker",
+            "Kubernetes",
+            "Postman"
+        ],
+        "id_resposta_correta": 1
+    },
+    {
+        "tituloquestao": "O teste que verifica se o sistema atende aos requisitos do cliente é o __________.",
+        "respostas": [
+            "teste de aceitação",
+            "teste de desempenho",
+            "teste de carga",
+            "teste de fumo",
+            "teste de unidade"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o termo para um teste rápido realizado antes de começar o trabalho principal?",
+        "respostas": [
+            "Teste de regressão",
+            "Teste de fumo",
+            "Teste de carga",
+            "Teste de unidade",
+            "Teste de integração"
+        ],
+        "id_resposta_correta": 1
+    },
+    {
+        "tituloquestao": "O teste de __________ verifica se novas alterações no código não quebraram funcionalidades existentes.",
+        "respostas": [
+            "regressão",
+            "integração",
+            "desempenho",
+            "aceitação",
+            "carga"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual destas é uma linguagem de programação popular?",
+        "respostas": [
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "HTTP",
+            "XML"
+        ],
+        "id_resposta_correta": 1
+    },
+    {
+        "tituloquestao": "Qual ferramenta é usada para controle de versão?",
+        "respostas": [
+            "Git",
+            "Vim",
+            "Notepad++",
+            "Nginx",
+            "PostgreSQL"
+        ],
+        "id_resposta_correta": 0
+    }
+]

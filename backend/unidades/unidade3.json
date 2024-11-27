@@ -1,0 +1,323 @@
+[
+    {
+        "tituloquestao": "O que são metodologias ágeis?",
+        "respostas": [
+            "Conjuntos de práticas que promovem entregas rápidas e incrementais com feedback contínuo.",
+            "Técnicas que priorizam processos rígidos e documentação extensa.",
+            "Metodologias que desencorajam a comunicação entre membros da equipe.",
+            "Estratégias para aumentar o tempo de desenvolvimento de software.",
+            "Conjuntos de regras para eliminar flexibilidade no processo de desenvolvimento."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é um dos valores do Manifesto Ágil?",
+        "respostas": [
+            "Indivíduos e interações acima de processos e ferramentas",
+            "Documentação acima de colaboração",
+            "Planejamento acima de resposta a mudanças",
+            "Controle rígido de projetos"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "No Scrum, o responsável por facilitar o trabalho da equipe é chamado de:",
+        "respostas": [
+            "Scrum Master",
+            "Product Owner",
+            "Desenvolvedor",
+            "Cliente",
+            "Gerente de Projeto"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa MVP?",
+        "respostas": [
+            "Minimum Viable Product (Produto Mínimo Viável)",
+            "Maximum Value Proposition",
+            "Most Valuable Player",
+            "Minimum Value Product",
+            "Managed Vendor Process"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual cerimônia Scrum é realizada no início de um sprint?",
+        "respostas": [
+            "Revisão do Sprint",
+            "Planejamento do Sprint",
+            "Retrospectiva do Sprint",
+            "Daily Scrum"
+        ],
+        "id_resposta_correta": 1
+    },
+    {
+        "tituloquestao": "O __________ no Scrum é uma lista priorizada de itens a serem desenvolvidos.",
+        "respostas": [
+            "Product Backlog",
+            "Sprint Backlog",
+            "Roadmap",
+            "Burn Down Chart",
+            "Product Increment"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o principal objetivo do Kanban?",
+        "respostas": [
+            "Visualizar o fluxo de trabalho para melhorar a eficiência.",
+            "Aumentar a burocracia nos processos.",
+            "Eliminar a comunicação entre equipes.",
+            "Focar apenas em entregas finais.",
+            "Priorizar documentação sobre software funcional."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual dessas ferramentas é usada para gerenciar projetos ágeis?",
+        "respostas": [
+            "Jira",
+            "Git",
+            "Docker",
+            "MySQL"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O tempo fixo para executar tarefas em Scrum é chamado de:",
+        "respostas": [
+            "Sprint",
+            "Iteração",
+            "Ciclo",
+            "Maratona",
+            "Timebox"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa XP em metodologias ágeis?",
+        "respostas": [
+            "Extreme Programming",
+            "Excellent Performance",
+            "Extra Process",
+            "Experience Points",
+            "Extended Planning"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa IoT?",
+        "respostas": [
+            "Internet of Things (Internet das Coisas)",
+            "Internet of Technology",
+            "Information over Time",
+            "Input/Output Technology",
+            "Integrated Operational Techniques"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual destes é um exemplo de dispositivo IoT?",
+        "respostas": [
+            "Smartphone",
+            "Smartwatch",
+            "Lâmpada inteligente",
+            "Todos os anteriores"
+        ],
+        "id_resposta_correta": 3
+    },
+    {
+        "tituloquestao": "Os dispositivos IoT se conectam e trocam dados usando:",
+        "respostas": [
+            "Internet",
+            "Bluetooth",
+            "Infravermelho",
+            "USB",
+            "Ethernet"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o principal benefício da IoT?",
+        "respostas": [
+            "Automatizar tarefas e conectar dispositivos para troca de informações.",
+            "Aumentar o consumo de energia elétrica.",
+            "Desconectar dispositivos da rede.",
+            "Reduzir a quantidade de dados disponíveis.",
+            "Limitar a comunicação entre dispositivos."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual protocolo é usado frequentemente em IoT para comunicação?",
+        "respostas": [
+            "HTTP",
+            "MQTT",
+            "FTP",
+            "SMTP"
+        ],
+        "id_resposta_correta": 1
+    },
+    {
+        "tituloquestao": "A IoT é amplamente usada em __________ inteligentes.",
+        "respostas": [
+            "Casas",
+            "Carros",
+            "Roupas",
+            "Brinquedos",
+            "Alimentos"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa Smart City?",
+        "respostas": [
+            "Uma cidade que usa tecnologia IoT para melhorar os serviços urbanos.",
+            "Uma cidade com alto índice de criminalidade.",
+            "Uma cidade que não possui internet.",
+            "Uma cidade fictícia de filmes.",
+            "Uma cidade que proíbe o uso de tecnologia."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual setor é mais impactado pela IoT?",
+        "respostas": [
+            "Saúde",
+            "Agricultura",
+            "Indústria",
+            "Todos os anteriores"
+        ],
+        "id_resposta_correta": 3
+    },
+    {
+        "tituloquestao": "Um dos principais desafios da IoT é a __________ dos dados.",
+        "respostas": [
+            "Segurança",
+            "Volume",
+            "Disponibilidade",
+            "Transparência",
+            "Conectividade"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é um sensor em IoT?",
+        "respostas": [
+            "Um dispositivo que coleta dados do ambiente e os envia para processamento.",
+            "Um software de edição de textos.",
+            "Um tipo de cabo de rede.",
+            "Um dispositivo que armazena energia.",
+            "Um sistema operacional de dispositivos móveis."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa Big Data?",
+        "respostas": [
+            "Conjuntos de dados muito grandes e complexos que exigem ferramentas específicas para análise.",
+            "Pequenos conjuntos de dados facilmente analisáveis.",
+            "Dados armazenados em dispositivos móveis.",
+            "Um software de edição de vídeo.",
+            "Um tipo de hardware de armazenamento."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é uma das características do Big Data?",
+        "respostas": [
+            "Volume",
+            "Velocidade",
+            "Variedade",
+            "Todas as anteriores"
+        ],
+        "id_resposta_correta": 3
+    },
+    {
+        "tituloquestao": "O Big Data é usado para tomar __________ baseadas em dados.",
+        "respostas": [
+            "Decisões",
+            "Dúvidas",
+            "Problemas",
+            "Mensagens",
+            "E-mails"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é Hadoop?",
+        "respostas": [
+            "Um framework usado para armazenamento e processamento de Big Data.",
+            "Uma linguagem de programação para desenvolvimento web.",
+            "Um aplicativo de mensagens instantâneas.",
+            "Um sistema operacional para dispositivos móveis.",
+            "Um tipo de banco de dados relacional."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual ferramenta é usada para análise de Big Data?",
+        "respostas": [
+            "Spark",
+            "Excel",
+            "MySQL",
+            "Word"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "A análise de Big Data ajuda a identificar __________ em grandes volumes de dados.",
+        "respostas": [
+            "Padrões",
+            "Erros de digitação",
+            "Cores",
+            "Formas geométricas",
+            "Sons"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa Data Mining?",
+        "respostas": [
+            "O processo de descobrir padrões em grandes conjuntos de dados.",
+            "A criação de vírus de computador.",
+            "A destruição de dados importantes.",
+            "O armazenamento de dados em dispositivos físicos.",
+            "A transferência de dados via Bluetooth."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual setor mais utiliza Big Data?",
+        "respostas": [
+            "Saúde",
+            "Varejo",
+            "Tecnologia",
+            "Todos os anteriores"
+        ],
+        "id_resposta_correta": 3
+    },
+    {
+        "tituloquestao": "A __________ é um dos desafios do Big Data, pois envolve proteger grandes volumes de dados.",
+        "respostas": [
+            "Segurança",
+            "Velocidade",
+            "Variedade",
+            "Volume",
+            "Veracidade"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que são dados estruturados?",
+        "respostas": [
+            "Dados organizados em tabelas e com formato definido, como bancos de dados relacionais.",
+            "Dados sem qualquer organização ou formato.",
+            "Dados armazenados em arquivos de texto simples.",
+            "Dados que não podem ser acessados.",
+            "Dados corrompidos."
+        ],
+        "id_resposta_correta": 0
+    }
+]

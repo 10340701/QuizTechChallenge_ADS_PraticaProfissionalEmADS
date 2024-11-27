@@ -1,0 +1,332 @@
+[
+    {
+        "tituloquestao": "O que significa CI/CD?",
+        "respostas": [
+            "Continuous Integration / Continuous Deployment",
+            "Continuous Improvement / Continuous Development",
+            "Code Inspection / Code Delivery",
+            "Client Interaction / Client Delivery",
+            "Continuous Input / Continuous Distribution"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual ferramenta é amplamente usada em pipelines de CI/CD?",
+        "respostas": [
+            "Jenkins",
+            "Docker",
+            "Kubernetes",
+            "Terraform",
+            "Ansible"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O DevOps promove colaboração entre quais equipes?",
+        "respostas": [
+            "Desenvolvedores e Operações",
+            "Marketing e Vendas",
+            "Finanças e RH",
+            "Clientes e Fornecedores",
+            "Gerentes e Estagiários"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é a principal função do Docker?",
+        "respostas": [
+            "Criar e gerenciar containers",
+            "Gerenciar bancos de dados",
+            "Monitorar redes",
+            "Desenvolver interfaces gráficas",
+            "Fornecer segurança ao sistema"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual destes é um princípio do DevOps?",
+        "respostas": [
+            "Automação",
+            "Isolamento",
+            "Centralização",
+            "Processos Manuais",
+            "Segregação"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual ferramenta é usada para orquestrar containers?",
+        "respostas": [
+            "Kubernetes",
+            "Docker",
+            "Jenkins",
+            "Ansible",
+            "GitLab"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é Infraestrutura como Código (IaC)?",
+        "respostas": [
+            "Gerenciar infraestrutura através de arquivos de configuração legíveis",
+            "Utilizar código para desenvolver interfaces de usuário",
+            "Codificar aplicativos sem infraestrutura",
+            "Implementar código sem testes",
+            "Usar hardware físico em vez de virtual"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual linguagem é usada com Terraform?",
+        "respostas": [
+            "HCL",
+            "YAML",
+            "JSON",
+            "Python",
+            "Ruby"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "No DevOps, o monitoramento contínuo serve para detectar o quê?",
+        "respostas": [
+            "Problemas rapidamente",
+            "Novas oportunidades de negócio",
+            "Preferências dos clientes",
+            "Atualizações automáticas",
+            "Desempenho financeiro"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o objetivo principal do DevOps?",
+        "respostas": [
+            "Acelerar o ciclo de desenvolvimento e entrega de software",
+            "Reduzir custos de hardware",
+            "Melhorar o design gráfico",
+            "Garantir segurança de dados",
+            "Aumentar o envolvimento do cliente"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa SaaS?",
+        "respostas": [
+            "Software as a Service",
+            "Storage as a Service",
+            "Security as a Service",
+            "Solution as a Service",
+            "System as a Service"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual provedor de nuvem oferece o serviço S3?",
+        "respostas": [
+            "AWS",
+            "Google Cloud",
+            "Azure",
+            "Oracle Cloud",
+            "IBM Cloud"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "A computação em nuvem permite o acesso remoto aos __________.",
+        "respostas": [
+            "Recursos computacionais",
+            "Clientes",
+            "Dispositivos móveis",
+            "Documentos impressos",
+            "Serviços locais apenas"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é IaaS?",
+        "respostas": [
+            "Infrastructure as a Service",
+            "Internet as a Service",
+            "Integration as a Service",
+            "Information as a Service",
+            "Interface as a Service"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual destas opções é um exemplo de PaaS?",
+        "respostas": [
+            "Heroku",
+            "Google Drive",
+            "AWS EC2",
+            "Dropbox",
+            "Microsoft Word"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "A sigla VM significa __________ Machine.",
+        "respostas": [
+            "Virtual",
+            "Visual",
+            "Variable",
+            "Verified",
+            "Volatile"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o principal benefício da escalabilidade na nuvem?",
+        "respostas": [
+            "Permitir aumentar ou reduzir recursos conforme a necessidade",
+            "Melhorar a segurança dos dados",
+            "Reduzir a qualidade do serviço",
+            "Limitar o acesso de usuários",
+            "Aumentar os custos operacionais"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual tecnologia é usada para criar máquinas virtuais na nuvem?",
+        "respostas": [
+            "VMware",
+            "Docker",
+            "Terraform",
+            "Ansible",
+            "Git"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O Google Cloud é um exemplo de provedor de __________.",
+        "respostas": [
+            "Nuvem pública",
+            "Nuvem privada",
+            "Nuvem híbrida",
+            "Nuvem comunitária",
+            "Nuvem pessoal"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é multi-nuvem?",
+        "respostas": [
+            "Usar serviços de mais de um provedor de nuvem",
+            "Ter várias nuvens no céu",
+            "Utilizar múltiplos servidores locais",
+            "Conectar várias redes internas",
+            "Usar um único provedor para tudo"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que são dados criptografados?",
+        "respostas": [
+            "Dados protegidos por algoritmos para evitar acessos não autorizados",
+            "Dados perdidos na transferência",
+            "Dados públicos disponíveis para todos",
+            "Dados armazenados em dispositivos físicos",
+            "Dados excluídos permanentemente"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual dessas é uma técnica de autenticação?",
+        "respostas": [
+            "Senha",
+            "Firewall",
+            "Criptografia",
+            "Backup",
+            "Compressão"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Um firewall é usado para proteger uma rede contra __________.",
+        "respostas": [
+            "Acessos não autorizados",
+            "Atualizações de software",
+            "Perda de energia",
+            "Backup automático",
+            "Melhora de desempenho"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa HTTPS?",
+        "respostas": [
+            "HyperText Transfer Protocol Secure",
+            "HyperText Transfer Protocol Standard",
+            "High Transfer Protocol Service",
+            "Hyperlink Text Transfer Protocol Secure",
+            "HyperText Transmission Protocol System"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual dessas é uma prática de segurança em senhas?",
+        "respostas": [
+            "Usar autenticação multifator",
+            "Reutilizar senhas",
+            "Compartilhar senhas",
+            "Usar senhas curtas",
+            "Anotar senhas em locais públicos"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O __________ é uma técnica que protege os dados convertendo-os em um formato ilegível sem uma chave.",
+        "respostas": [
+            "Algoritmo de criptografia",
+            "Backup de dados",
+            "Firewall",
+            "Antivírus",
+            "Compressão de arquivos"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é phishing?",
+        "respostas": [
+            "Uma tentativa de enganar pessoas para que revelem informações confidenciais",
+            "Uma técnica de melhorar o desempenho de redes",
+            "Um software de gerenciamento de projetos",
+            "Um tipo de criptografia avançada",
+            "Uma prática de backup de dados"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual destas é uma boa prática de segurança?",
+        "respostas": [
+            "Manter backups regulares",
+            "Usar software pirata",
+            "Evitar atualizações",
+            "Compartilhar senhas",
+            "Desativar o antivírus"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O uso de __________ ajuda a proteger conexões na internet contra espionagem.",
+        "respostas": [
+            "VPNs",
+            "Cookies",
+            "Firewalls",
+            "Caches",
+            "Pop-ups"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o objetivo principal da segurança da informação?",
+        "respostas": [
+            "Garantir a confidencialidade, integridade e disponibilidade dos dados",
+            "Aumentar a velocidade da internet",
+            "Reduzir custos operacionais",
+            "Melhorar a interface do usuário",
+            "Compartilhar informações livremente"
+        ],
+        "id_resposta_correta": 0
+    }
+]

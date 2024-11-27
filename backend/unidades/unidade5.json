@@ -1,0 +1,323 @@
+[
+    {
+        "tituloquestao": "O que é Kubernetes?",
+        "respostas": [
+            "Uma plataforma de orquestração para gerenciar containers em larga escala.",
+            "Um sistema operacional para dispositivos móveis.",
+            "Um banco de dados relacional.",
+            "Uma linguagem de programação.",
+            "Um software de edição de imagens."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o principal objetivo do Kubernetes?",
+        "respostas": [
+            "Gerenciar containers",
+            "Criar imagens de containers",
+            "Configurar redes locais",
+            "Monitorar logs"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O __________ é o componente central do Kubernetes que gerencia o estado desejado do cluster.",
+        "respostas": [
+            "Controlador Mestre",
+            "Worker Node",
+            "Pod",
+            "Service",
+            "ConfigMap"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é um pod no Kubernetes?",
+        "respostas": [
+            "A menor unidade executável que pode conter um ou mais containers.",
+            "Um sistema de armazenamento em Kubernetes.",
+            "Uma ferramenta de monitoramento de logs.",
+            "Um tipo de rede virtual.",
+            "Um componente para gerenciar identidades."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual ferramenta é usada para criar e gerenciar clusters Kubernetes?",
+        "respostas": [
+            "kubectl",
+            "docker-compose",
+            "Terraform",
+            "Prometheus"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Os __________ no Kubernetes garantem que apenas tráfego autorizado alcance os pods.",
+        "respostas": [
+            "Ingress Controllers",
+            "Services",
+            "Pods",
+            "ConfigMaps",
+            "Deployments"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é o papel de um nó em Kubernetes?",
+        "respostas": [
+            "Executar os pods e fornecer recursos como CPU e memória.",
+            "Monitorar o tráfego de rede.",
+            "Armazenar dados persistentes.",
+            "Gerenciar o acesso de usuários.",
+            "Configurar políticas de segurança."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual componente do Kubernetes monitora os nós e os pods?",
+        "respostas": [
+            "Kubelet",
+            "Kubectl",
+            "Scheduler",
+            "DNS"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O __________ distribui tarefas entre os nós no Kubernetes.",
+        "respostas": [
+            "Scheduler",
+            "Controller Manager",
+            "Kubelet",
+            "API Server",
+            "Etcd"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que são volumes em Kubernetes?",
+        "respostas": [
+            "Mecanismos para armazenar dados persistentes usados por pods.",
+            "Ferramentas para monitorar o desempenho do cluster.",
+            "Configurações de rede para pods.",
+            "Componentes que controlam o acesso de usuários.",
+            "Recursos para gerenciar atualizações de software."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é um qubit?",
+        "respostas": [
+            "A unidade básica de informação na computação quântica.",
+            "Um tipo de transistor em computadores clássicos.",
+            "Um protocolo de rede.",
+            "Uma unidade de armazenamento de dados em discos rígidos.",
+            "Um tipo de algoritmo de criptografia."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual princípio fundamental é usado na computação quântica?",
+        "respostas": [
+            "Superposição",
+            "Ponto flutuante",
+            "Polarização",
+            "Inércia"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "A __________ permite que um qubit exista em múltiplos estados ao mesmo tempo.",
+        "respostas": [
+            "Superposição",
+            "Entrelaçamento",
+            "Decoerência",
+            "Polarização",
+            "Interferência"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é entrelaçamento quântico?",
+        "respostas": [
+            "Um fenômeno onde dois qubits estão interligados independentemente da distância entre eles.",
+            "A capacidade de um qubit estar em múltiplos estados simultaneamente.",
+            "A perda de coerência quântica devido ao ambiente.",
+            "O processo de medir o estado de um qubit.",
+            "Uma técnica de criptografia quântica."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual linguagem é usada para programar computadores quânticos?",
+        "respostas": [
+            "Q#",
+            "Python",
+            "C++",
+            "Java"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Os computadores quânticos são especialmente úteis para resolver problemas de __________.",
+        "respostas": [
+            "Otimização",
+            "Gravação de dados",
+            "Interface de usuário",
+            "Segurança",
+            "Design gráfico"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é uma porta quântica?",
+        "respostas": [
+            "Uma operação que altera o estado de um qubit.",
+            "Um dispositivo físico que conecta computadores quânticos.",
+            "Um protocolo de comunicação quântica.",
+            "Uma técnica para medir qubits sem interferir no estado.",
+            "Uma linguagem de programação para computadores quânticos."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual setor mais se beneficiará da computação quântica?",
+        "respostas": [
+            "Saúde",
+            "Financeiro",
+            "Segurança",
+            "Todos os anteriores"
+        ],
+        "id_resposta_correta": 3
+    },
+    {
+        "tituloquestao": "Os computadores quânticos utilizam __________ para armazenar e processar informações.",
+        "respostas": [
+            "Qubits",
+            "Bits clássicos",
+            "Transistores",
+            "Discos rígidos",
+            "Memória flash"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa decoerência quântica?",
+        "respostas": [
+            "A perda de informações quânticas devido a interações com o ambiente.",
+            "O processo de estabilização de qubits em um computador quântico.",
+            "Uma técnica para melhorar o desempenho de computadores clássicos.",
+            "A criação de entrelaçamento entre qubits.",
+            "Um algoritmo de correção de erros quânticos."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que são redes neurais profundas?",
+        "respostas": [
+            "Modelos de aprendizado de máquina baseados em várias camadas de neurônios artificiais.",
+            "Redes de computadores conectados via cabos submarinos.",
+            "Protocolos de comunicação para dispositivos móveis.",
+            "Sistemas operacionais para servidores.",
+            "Técnicas de criptografia avançadas."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é uma aplicação de redes neurais profundas?",
+        "respostas": [
+            "Reconhecimento de imagem",
+            "Tradução automática",
+            "Assistentes virtuais",
+            "Todas as anteriores"
+        ],
+        "id_resposta_correta": 3
+    },
+    {
+        "tituloquestao": "As redes neurais são inspiradas na estrutura do __________ humano.",
+        "respostas": [
+            "Cérebro",
+            "Coração",
+            "Pulmão",
+            "Fígado",
+            "Estômago"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa CNN em redes neurais?",
+        "respostas": [
+            "Convolutional Neural Network (Rede Neural Convolucional)",
+            "Central Neural Node",
+            "Complex Neural Network",
+            "Continuous Neural Network",
+            "Computed Network Nodes"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual é uma técnica comum usada para evitar overfitting em redes neurais?",
+        "respostas": [
+            "Dropout",
+            "Batching",
+            "Pooling",
+            "Decoding"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "As __________ são usadas para analisar sequências temporais em redes neurais.",
+        "respostas": [
+            "Redes Recorrentes",
+            "Redes Convolucionais",
+            "Redes Feedforward",
+            "Redes Estocásticas",
+            "Redes Probabilísticas"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que é aprendizado supervisionado?",
+        "respostas": [
+            "Um tipo de aprendizado onde a rede é treinada com dados rotulados.",
+            "Um aprendizado sem qualquer tipo de dados de entrada.",
+            "Um método onde a máquina aprende por tentativa e erro sem feedback.",
+            "Uma técnica onde a rede é treinada com dados não estruturados.",
+            "Um processo onde a rede gera seus próprios dados de treinamento."
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "Qual biblioteca é amplamente usada para criar redes neurais profundas?",
+        "respostas": [
+            "TensorFlow",
+            "Django",
+            "Flask",
+            "Pandas"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "As redes neurais usam __________ para ajustar os pesos durante o treinamento.",
+        "respostas": [
+            "Backpropagation",
+            "Forward Propagation",
+            "Convolução",
+            "Regularização",
+            "Normalização"
+        ],
+        "id_resposta_correta": 0
+    },
+    {
+        "tituloquestao": "O que significa backpropagation?",
+        "respostas": [
+            "Um algoritmo usado para calcular os gradientes e ajustar os pesos de uma rede neural.",
+            "Um método para armazenar dados em memória de forma eficiente.",
+            "Um protocolo de comunicação entre redes neurais.",
+            "Um processo de coletar dados para treinamento.",
+            "Uma técnica de visualização de resultados."
+        ],
+        "id_resposta_correta": 0
+    }
+]
